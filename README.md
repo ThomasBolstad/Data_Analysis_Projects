@@ -9,7 +9,7 @@ Welcome! I'm Thomas Bolstad — a data-savvy analyst with 5 years of Excel-heavy
 | Project | Description | Tools |
 |--------|-------------|-------|
 | [Python Data Analysis Tools](./Python%20Data%20Analysis%20Tools) | Data analysis projects built with Python using Pandas, Matplotlib, and Seaborn. | Python, Pandas |
-| [Buying Office Buyplan Tool](./Excel%20Data%20Analysis%20Tools/Buyplan%20Automation%20Template) | Automated Excel template for allocating licensed product buys by team/store. | Excel, VBA |
+| [Buyplan Automation Template](./Excel%20Data%20Analysis%20Tools/Buyplan%20Automation%20Template) | Automated Excel template for allocating licensed product buys by team/store. | Excel, VBA |
 | [Vendor & Category Recap](./Excel%20Data%20Analysis%20Tools/Vendor%20and%20Category%20Recap) | Pivot dashboard tracking performance by vendor, gender, and subclass. | Excel, Pivot Tables |
 | [Replenishment Tool](./Excel%20Data%20Analysis%20Tools/Replenishment%20&%20Chase%20Tool) | In-season replenishment tracker that drove over $1M in additional revenue. | Excel, INDEX-MATCH |
 
