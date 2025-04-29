@@ -14,7 +14,7 @@ This project analyzes forum page view data over time and creates a variety of vi
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies Used 
 
 - Python 3
 - Pandas
