@@ -32,26 +32,43 @@ This project analyzes forum page view data over time and creates a variety of vi
 2. Run the script
    ```bash
    python time_series_visualizer.py
+   ```
 
 3. Output:
+   - `line_plot.png`: raw time series
+   - `bar_plot.png`: average monthly views per year
+   - `box_plot.png`: yearly and monthly distribution plots
 
-line_plot.png: raw time series
+---
 
-bar_plot.png: average monthly views per year
+## 📋 Sample Output
 
-box_plot.png: yearly and monthly distribution plots
+### Line Plot  
+![Line Plot](./line_plot.png)
 
-##📎 Project Files
-time_series_visualizer.py – Data prep and plotting logic
+### Bar Plot  
+![Bar Plot](./bar_plot.png)
 
-fcc-forum-pageviews.csv – Time series dataset
+### Box Plots  
+![Box Plot](./box_plot.png)
 
-test_module.py – Unit tests provided by freeCodeCamp
+---
 
-requirements.txt – Python dependencies
+## 📎 Project Files
 
-##📄 License
+- `time_series_visualizer.py` – Data prep and plotting logic
+- `fcc-forum-pageviews.csv` – Time series dataset
+- `test_module.py` – Unit tests provided by freeCodeCamp
+- `requirements.txt` – Python dependencies
+
+---
+
+## 📄 License
+
 This project is licensed under the MIT License.
 
-"Time reveals all trends — you just need the right plot to see them."
+---
+
+> *"Time reveals all trends — you just need the right plot to see them."*
+```
 
