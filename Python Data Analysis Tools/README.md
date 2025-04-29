@@ -1,6 +1,6 @@
 # 🐍 Python Data Analysis Tools
 
-This folder contains Python-based data analysis projects that demonstrate your skills in data wrangling, visualization, and algorithmic problem solving. Built using `pandas`, `matplotlib`, `numpy`, and `seaborn`, these projects were completed as part of freeCodeCamp’s Data Analysis and Scientific Computing with Python certifications — and customized to showcase real analysis output.
+This folder contains Python-based data analysis projects that demonstrate skills in data wrangling, visualization, and algorithmic problem solving. Built using `pandas`, `matplotlib`, `numpy`, and `seaborn`, these projects were completed as part of freeCodeCamp’s Data Analysis and Scientific Computing with Python certifications — and customized to showcase real-world analysis output.
 
 ---
 
@@ -18,35 +18,45 @@ This folder contains Python-based data analysis projects that demonstrate your s
 
 ## 🔧 Tools & Libraries
 
-- `pandas` – for data manipulation
-- `numpy` – for numerical analysis
-- `matplotlib`, `seaborn` – for visualizations
-- `scipy.stats.linregress` – for regression modeling
-- CLI / Git / VS Code – for version control & dev environment
+- `pandas`
+- `numpy`
+- `matplotlib`
+- `seaborn`
+- `scipy.stats.linregress`
+- CLI / Git / VS Code
 
 ---
 
-## 📂 Output Examples
+## 📂 Project Visuals
 
-Each project generates either a `.png` plot or printed terminal output like this:
+### 📊 Medical Data Visualizer
 
-```
-Number of each race:
- race
-White                 27816
-Black                  3124
-Asian-Pac-Islander     1039
-Amer-Indian-Eskimo      311
-Other                   271
-Average age of men: 39.4
-```
+**Categorical Plot**  
+![Cat Plot](./Medical%20Data%20Visualizer/catplot.png)
 
-Plots include:
-- Box plots
-- Bar charts
-- Linear regression trendlines
-- Categorical visualizations
+**Heatmap**  
+![Heatmap](./Medical%20Data%20Visualizer/heatmap.png)
 
 ---
 
-> “The ability to take data — to be able to understand it, process it, extract value from it… is the future.” — Hal Varian, Google Chief Economist
+### 🌊 Sea Level Predictor
+
+**Sea Level Forecast Plot**  
+![Sea Level Plot](./Sea%20Level%20Predictor/sea_level_plot.png)
+
+---
+
+### 📈 Time Series Visualizer
+
+**Line Plot**  
+![Line Plot](./Time%20Series%20Visualizer/line_plot.png)
+
+**Bar Plot**  
+![Bar Plot](./Time%20Series%20Visualizer/bar_plot.png)
+
+**Box Plot**  
+![Box Plot](./Time%20Series%20Visualizer/box_plot.png)
+
+---
+
+> "The ability to take data — to be able to understand it, process it, extract value from it… is the future.” — Hal Varian, Google Chief Economist
