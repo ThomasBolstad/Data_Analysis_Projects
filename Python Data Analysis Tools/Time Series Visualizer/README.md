@@ -44,10 +44,10 @@ This project analyzes forum page view data over time and creates a variety of vi
 ## 📋 Sample Output
 
 ### Line Plot  
-![Line Plot](./Figure_1.png)
+![Line Plot](./line_plot.png)
 
 ### Bar Plot  
-![Bar Plot](./Figure_2.png)
+![Bar Plot](./bar_plot.png)
 
 ### Box Plots  
 ![Box Plot](./box_plot.png)
