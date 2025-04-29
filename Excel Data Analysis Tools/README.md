@@ -11,7 +11,7 @@ Each workbook was purpose-built to support a specific phase of the merchandise l
 ### 🛒 Buying Office Buyplan Automation Template
 A macro-enabled planning workbook that allocates seasonal buys by team, store tier, and sales velocity. Features logic-driven allocation tools, automated pivots, and dynamic dashboards to plan up to $150M in buys across 4,500+ store-team combinations.
 
-→ [View README](./Buying%20Office%20Buyplan%20Automation%20Template/README.md)
+→ [View README](./Buyplan%20Automation%20Template/README.md)
 
 ---
 
@@ -25,7 +25,7 @@ A dynamic reporting workbook used to analyze sales performance by vendor, gender
 ### 🔄 Replenishment Report (Chase Tool)
 An in-season replenishment tracker used to chase top-selling licensed styles in real time. Combines sales velocity, on-hand inventory, and buyplan gaps to generate prioritized chase recommendations by team, gender, subclass, and tier.
 
-→ [View README](./Replenishment%20Tool/README.md)
+→ [View README](./Replenishment%20&%20Chase%20Tool/README.md)
 
 ---
 
