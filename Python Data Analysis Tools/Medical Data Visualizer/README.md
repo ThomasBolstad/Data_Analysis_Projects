@@ -1,4 +1,3 @@
-```markdown
 # Medical Data Visualizer
 
 This project uses Pandas, Seaborn, and Matplotlib to explore and visualize medical examination data. It includes a categorical plot and heatmap to identify correlations between health indicators such as cholesterol, BMI, glucose, and lifestyle factors.
@@ -29,7 +28,7 @@ This project uses Pandas, Seaborn, and Matplotlib to explore and visualize medic
 1. Install dependencies:
    ```bash
    pip install pandas seaborn matplotlib
-   ```
+
 
 2. Run the script:
    ```bash
