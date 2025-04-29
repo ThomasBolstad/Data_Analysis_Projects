@@ -11,7 +11,7 @@ Each workbook was purpose-built to support a specific phase of the merchandise l
 ### 🛒 Buying Office Buyplan Automation Template
 A macro-enabled planning workbook that allocates seasonal buys by team, store tier, and sales velocity. Features logic-driven allocation tools, automated pivots, and dynamic dashboards to plan up to $150M in buys across 4,500+ store-team combinations.
 
-→ [View README](./Buyplan_Automation_Template/README.md)
+→ [View README](./'Buyplan Automation Template'/README.md)
 
 ---
 
