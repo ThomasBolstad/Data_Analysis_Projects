@@ -45,3 +45,8 @@ Country with highest percentage of rich: Iran
 Highest percentage of rich people in country: 41.9%
 Top occupations in India: Prof-specialty
 ```
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
