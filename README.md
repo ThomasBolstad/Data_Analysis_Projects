@@ -20,9 +20,9 @@ These projects were built as part of the freeCodeCamp Data Analysis with Python 
 
 These tools were built in a business context to support retail decision-making at scale.
 
-- **MLB Buyplan Automation**: A macro-enabled Excel tool used to allocate $150M in seasonal merchandise purchases across 4,500 store-team combinations.
+- **Buying Office Buyplan Automation Template**: A macro-enabled Excel tool used to allocate $150M in seasonal merchandise purchases across 25 vendors, 5 sports leagues, 240 teams, and ~1180 brick and mortar locations.
 - **Vendor & Category Recap Dashboard**: Dynamic dashboard summarizing 1M+ rows of vendor sales data, enabling real-time executive insights.
-- **Replenishment Tracker**: Automated report used to chase fast-selling products, driving $1.3M in incremental revenue with 96% sell-through rates.
+- **Replenishment Tracker**: Automated report used to analyze fast-selling products and quickly submit buys to chase into that product, driving $1.3M in incremental revenue with 96% sell-through rates.
 
 ---
 
@@ -41,4 +41,4 @@ These tools were built in a business context to support retail decision-making a
 
 ---
 
-> *Built with curiosity, coffee, and a passion for turning raw data into business clarity.*
+> *Built with curiosity, LOTS of coffee, and a passion for turning raw data into business clarity.*
