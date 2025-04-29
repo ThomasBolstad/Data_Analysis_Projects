@@ -1,7 +1,3 @@
-Absolutely — here’s the entire `README.md` for **Medical Data Visualizer** in one clean block for copy-pasting:
-
----
-
 ```markdown
 # Medical Data Visualizer
 
@@ -75,9 +71,3 @@ This project is licensed under the MIT License.
 
 > *"Health insights are better visualized than guessed — this project makes the data speak."*
 ```
-
----
-
-Paste that into `Medical Data Visualizer/README.md`, and you're golden.
-
-Ready for **Sea Level Predictor** next? Just say the word.
