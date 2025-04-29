@@ -32,6 +32,7 @@ for each row, column, and the flattened matrix.
    ```bash
    pip install numpy
 2. Run the calculator
+   ```bash
    python mean_var_std.py
 
 ## 📋 Sample Output
