@@ -1,44 +1,33 @@
-# Data Analysis Projects
+# 🧠 Thomas Bolstad – Data Analysis Projects
 
-This repository showcases a collection of data analysis projects using both **Python** and **Excel**. It includes real-world business tools developed during my time at Kohl’s, as well as projects completed through freeCodeCamp’s Data Analysis with Python certification.
-
----
-
-## 🔬 Python Projects
-
-These projects were built as part of the freeCodeCamp Data Analysis with Python curriculum and demonstrate statistical analysis, data cleaning, and data visualization.
-
-- **Mean-Variance-Standard Deviation Calculator**: A statistical tool to compute distribution metrics using Python and NumPy.
-- **Demographic Data Analyzer**: Analyzes census-style datasets to uncover trends and generate summary statistics.
-- **Medical Data Visualizer**: Creates insightful visualizations from health records using Seaborn and Matplotlib.
-- **Page View Time Series Visualizer**: Produces line, bar, and box plots from time series web traffic data.
-- **Sea Level Predictor**: Uses regression modeling to forecast future sea level rise from historical climate data.
+Welcome! I'm Thomas Bolstad — a data-savvy analyst with 5 years of Excel-heavy retail planning experience and a recent shift into Python-based data analysis and automation. This repository showcases a blend of **real-world Excel dashboards** and **Python data projects**, all designed to extract insight, automate decision-making, and support million-dollar business outcomes.
 
 ---
 
-## 📊 Excel Projects
+## 📂 Projects Overview
 
-These tools were built in a business context to support retail decision-making at scale.
-
-- **Buying Office Buyplan Automation Template**: A macro-enabled Excel tool used to allocate $150M in seasonal merchandise purchases across 25 vendors, 5 sports leagues, 240 teams, and ~1180 brick and mortar locations.
-- **Vendor & Category Recap Dashboard**: Dynamic dashboard summarizing 1M+ rows of vendor sales data, enabling real-time executive insights.
-- **Replenishment Tracker**: Automated report used to analyze fast-selling products and quickly submit buys to chase into that product, driving $1.3M in incremental revenue with 96% sell-through rates.
-
----
-
-## 🛠️ Tools & Technologies
-
-- **Python**: Pandas, NumPy, Matplotlib, Seaborn
-- **Excel**: Macros (VBA), Pivot Tables, INDEX-MATCH, Dynamic Dashboards
-- **Other**: SQL, Git, Docker, Linux CLI
+| Project | Description | Tools |
+|--------|-------------|-------|
+| [Python Data Analysis Tools](./Python%20Data%20Analysis%20Tools) | Data analysis projects built with Python using Pandas, Matplotlib, and Seaborn. | Python, Pandas |
+| [Buying Office Buyplan Tool](./Excel%20Data%20Analysis%20Tools/Buying%20Office%20Buyplan%20Automation%20Template) | Automated Excel template for allocating licensed product buys by team/store. | Excel, VBA |
+| [Vendor & Category Recap](./Excel%20Data%20Analysis%20Tools/Vendor%20and%20Category%20Recap) | Pivot dashboard tracking performance by vendor, gender, and subclass. | Excel, Pivot Tables |
+| [Replenishment Tool](./Excel%20Data%20Analysis%20Tools/Replenishment%20Tool) | In-season replenishment tracker that drove over $1M in additional revenue. | Excel, INDEX-MATCH |
 
 ---
 
-## 👤 Author
+## 🔧 Skills Demonstrated
 
-**Thomas Bolstad**  
-[LinkedIn](https://linkedin.com/in/thomas-bolstad-647049139) • [GitHub](https://github.com/ThomasBolstad)
+- 📊 Advanced Excel: Pivot tables, macros, dashboards, allocation logic
+- 🐍 Python: Pandas, NumPy, Matplotlib, Seaborn
+- 🧠 Data storytelling: Dashboards for executives, vendors, and finance
+- 🔄 Process automation: Reduced manual hours with self-updating tools
 
 ---
 
-> *Built with curiosity, LOTS of coffee, and a passion for turning raw data into business clarity.*
+## 📬 Contact
+
+- 📧 tombolstad45@gmail.com  
+- 🧑‍💻 [LinkedIn](https://www.linkedin.com/in/thomas-bolstad-647049139/)
+
+---
+> “There's a way to do better. Find it.” — Thomas Edison
